@@ -5,7 +5,7 @@ export default function App() {
   return (
     <View className="flex-1 items-center justify-center bg-green">
       <Text className="text-3xl">weConnect</Text>
-      {/* <StatusBar style="auto" /> */}
+      <StatusBar style="auto" />
     </View>
   );
 }
