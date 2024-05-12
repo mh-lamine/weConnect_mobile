@@ -1,7 +1,8 @@
 {
   "expo": {
-    "name": "weConnect_mobile",
-    "slug": "weConnect_mobile",
+    "name": "weConnect",
+    "slug": "weConnect",
+    "scheme": "weConnect",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
